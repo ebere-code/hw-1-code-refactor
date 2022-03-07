@@ -14,4 +14,6 @@ The aim of this project was to refactor the Horiseon website code to make it mor
 
 ## SCREENSHOTS
 
-![Screenshot of top of page]()
+![Screenshot of top of  page](./assets/images/SCREENSHOT OF TOP.jpg)
+
+![screenshot of bottom of page](./assets/images/SCREENSHOT OF BOTTOM.png)
