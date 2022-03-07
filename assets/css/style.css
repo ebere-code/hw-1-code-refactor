@@ -36,12 +36,10 @@ header nav {
     list-style-type: none;
 }
 
-
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 
 /*style links*/
 a {
@@ -49,12 +47,10 @@ a {
     text-decoration: none;
 }
 
-
 /*style paragraphs*/
 p {
     font-size: 16px;
 }
-
 
 /*hero image styling*/
 .hero {
@@ -62,7 +58,6 @@ p {
     width: 100%;
     margin-bottom: 25px;
 }
-
 
 /*main section styling*/
 main section{
@@ -82,7 +77,6 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 .float-left {
     float: left;
@@ -128,6 +122,7 @@ aside section img {
     max-width: 150px;
 }
 
+/*footer styling*/
 footer {
     color: black;
     padding: 30px;
