@@ -6,7 +6,7 @@ The aim of this project was to refactor the Horiseon website code to make it mor
 ## CHANGES
 * Added a Website Title
 * Added Alt comments to the images
-* Removed excess <div> tags
+* Removed excess '<div>' tags
 * Added comments to HTML and CSS files
 * Removes excess classes
 * Removes excess and repeated lines of code from CSS file
@@ -14,6 +14,11 @@ The aim of this project was to refactor the Horiseon website code to make it mor
 
 ## SCREENSHOTS
 
-![Screenshot of top of  page](./assets/images/SCREENSHOT OF TOP.jpg)
+![screenshot of top of page](./assets/images/screenshot-of-top.png)
 
-![screenshot of bottom of page](./assets/images/SCREENSHOT OF BOTTOM.png)
+![screenshot of bottom of page](./assets/images/screenshot-of-bottom.png)
+
+
+## LINK TO DEPLOYED PAGE
+
+ https://ebere-code.github.io/hw-1-code-refactor/
